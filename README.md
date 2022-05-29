@@ -2,7 +2,7 @@
 - 👀 I’m interested in CSS, HTML, JS, PHP
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on sjava project
-- 📫 You can search me on linkedin
+- 📫 You can search me on linkedin or twitter
 
 <!---
 Bereshs/Bereshs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
