@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bereshs
 - 👀 I’m interested in CSS, HTML, JS, PHP
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on sjava project
+- 💞️ I’m looking to collaborate on java project
 - 📫 You can search me on linkedin or twitter
 
 <!---
