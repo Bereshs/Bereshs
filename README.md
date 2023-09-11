@@ -1,10 +1,6 @@
-#👋 Hi there, I’m [Sergey] (https://t.me/bereshs)
-###Computer science, from Russia
-###Sometimes I publish my Java, Spring boot projects on this page
-###I write code on JS, PHP but Java - is my love 
-##If you have a questions on my projects, maybe want to offered me work or just tell about someone write me on messangers. 
+<h3>👋 Hi there, I’m <a href="https://t.me/bereshs">Sergey</a></h3>
+Computer science, from Russia<br>
+Sometimes I publish my Java, Spring boot projects on this page<br>
+I write code on JS, PHP but <b>Java - is my love</b><br>
+If you have a questions on my projects, maybe want to offered me work or just tell about someone write me on messangers.<br> 
 have a fun at my page :-O
-<!---
-Bereshs/Bereshs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
