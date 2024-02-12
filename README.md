@@ -13,6 +13,7 @@
 
 
 <b>Spring Boot</B></br>
+- SAGA управление долговременными транзакциями Apache Kafka <a href="https://github.com/Bereshs/saga">Здесь</a><br>
 - Поиск работы на hh.ru, приложение взаимодействует с hh.ru rest api <a href="https://github.com/Bereshs/HHWorkSearch">Здeсь</a><br>
 - Индексация web страниц, со своим Rest API <a href="https://github.com/Bereshs/searchengine">Здесь</a><br>
 - Интернет-магазин книг, со своим Rest API <a href="https://github.com/Bereshs/BookShopApp">Здесь</a><br>
