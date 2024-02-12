@@ -12,6 +12,8 @@
 
 <b>Java:</b><br>
 - Простая реализация функциональных интерфейсов и часть функций streamApi <a href="https://github.com/Bereshs/functionsAndStream">Здесь</a><br>
+- Spring cloud сервис отправки сообщений в telegram, расширение функционала HHWorkSearch  <a href="https://github.com/Bereshs/TelegaMessageSender">Здесь</a><br>
+- HhWorkSarch сервис автоматизированного анализа вакансий hh.ru <a href="https://github.com/Bereshs/HHWorkSearch">Здесь</a><br>
 - Упрощенная реализация библиотеки JUnit с использованием рефлексии <a href="https://github.com/Bereshs/functionsAndStream">Здесь</a><br>
 - Многопоточная индексация сайта forkJoin <a href="https://github.com/Bereshs/ForkJoinMap/tree/main/src">Здесь</a><br>
 - Парсер сайтов на Jsoup <a href="https://github.com/Bereshs/ru.parser.hyundai">Здесь</a><br>
