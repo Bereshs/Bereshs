@@ -6,16 +6,10 @@
 
 <b>Spring Boot</B></br>
 - SAGA управление долговременными транзакциями Apache Kafka <a href="https://github.com/Bereshs/saga">Здесь</a><br>
-- Поиск работы на hh.ru, приложение взаимодействует с hh.ru rest api <a href="https://github.com/Bereshs/HHWorkSearch">Здeсь</a><br>
+- HhWorkSarch сервис автоматизированного анализа вакансий hh.ru <a href="https://github.com/Bereshs/HHWorkSearch">Здесь</a><br>
+- Spring cloud сервис отправки сообщений в telegram, расширение функционала HHWorkSearch  <a href="https://github.com/Bereshs/TelegaMessageSender">Здесь</a><br>
 - Индексация web страниц, со своим Rest API <a href="https://github.com/Bereshs/searchengine">Здесь</a><br>
-- Интернет-магазин книг, со своим Rest API <a href="https://github.com/Bereshs/BookShopApp">Здесь</a><br>
 
 <b>Java:</b><br>
-- Простая реализация функциональных интерфейсов и часть функций streamApi <a href="https://github.com/Bereshs/functionsAndStream">Здесь</a><br>
-- Spring cloud сервис отправки сообщений в telegram, расширение функционала HHWorkSearch  <a href="https://github.com/Bereshs/TelegaMessageSender">Здесь</a><br>
-- HhWorkSarch сервис автоматизированного анализа вакансий hh.ru <a href="https://github.com/Bereshs/HHWorkSearch">Здесь</a><br>
-- Упрощенная реализация библиотеки JUnit с использованием рефлексии <a href="https://github.com/Bereshs/functionsAndStream">Здесь</a><br>
-- Многопоточная индексация сайта forkJoin <a href="https://github.com/Bereshs/ForkJoinMap/tree/main/src">Здесь</a><br>
-- Парсер сайтов на Jsoup <a href="https://github.com/Bereshs/ru.parser.hyundai">Здесь</a><br>
-- Первая версия торгового робота для Tinkoff invest-openap <a href="https://github.com/Bereshs/ru.irobot.tinkoff.invest.robor">Здесь</a><br> 
+- Первая и самая старая версия торгового робота для Tinkoff invest-openap <a href="https://github.com/Bereshs/ru.irobot.tinkoff.invest.robor">Здесь</a><br> 
 
