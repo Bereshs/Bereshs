@@ -1,7 +1,7 @@
 ## Привет, я Сергей
 ### Backend разработчик
 
-### Здесь есть примеры моих работ:
+### Знакомтесь с моим кодом:
 
 - HhWorkSarch сервис автоматизированного анализа вакансий hh.ru <a href="https://github.com/Bereshs/HHWorkSearch">Здесь</a><br>
 - Spring cloud сервис отправки сообщений в telegram, расширение функционала HHWorkSearch  <a href="https://github.com/Bereshs/TelegaMessageSender">Здесь</a><br>
